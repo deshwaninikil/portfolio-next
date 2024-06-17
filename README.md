@@ -1,16 +1,12 @@
-# Todo App
+# Portfolio Website
 
-Discover the ultimate to-do app with login and signup using Next.js, Prisma database, and a robust Next.js backend.
-
-<!-- ## Demo Video
-
-https://github.com/deshwaninikil/shoes-store/assets/79966144/db4c2d31-d787-4f19-a187-632d17a12e4c -->
+Welcome to my portfolio website built with Next.js and styled using Tailwind CSS. As a showcase of my skills and projects, this platform reflects my passion for clean design and efficient development.
 
 ## How to install and run locally ?
 
 ```
-$ git clone https://github.com/deshwaninikil/todo_app.git
-$ cd  todoapp
+$ git clone https://github.com/deshwaninikil/portfolio-next.git
+$ cd  portfolio-next
 $ npm install
 $ npm start
 
@@ -18,10 +14,6 @@ $ npm start
 
 ## Features Added
 
-- Login Page
-- SignUp Page
-- Add Todo page
-- Todo List Page
 - Error Page
 - Toast and Loaders
 - Responsive
@@ -31,5 +23,4 @@ $ npm start
 - NextJS
 - NextJS Backend
 - Next Auth
-- Vanilla CSS
-- Prisma
+- Tailwind CSS
