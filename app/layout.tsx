@@ -34,7 +34,18 @@ export default function RootLayout({
         <title>Nikil Deshwani Portfolio Website</title>
         <meta
           name="description"
-          content="Welcome to Punyakrit's portfolio website. I am a final year undergraduate with specialized expertise in developing MERN (MongoDB, Express.js, React.js, Node.js) applications and deploying them in the cloud using AWS (Amazon Web Services) tools."
+          content=" I have 5.6 years of experience in frontend development with
+          specialized expertise in developing MERN (MongoDB, Express.js,
+          React.js, Node.js) applications and deploying them in the cloud using
+          AWS (Amazon Web Services) tools. Highly motivated and possessing the
+          ability to work collaboratively within a team environment, I am adept
+          at leveraging modern technologies such as ReactJs, NextJs, HTML, CSS,
+          JavaScript, jQuery, Redux, Tailwind, GIT, Node.js, MongoDB, UI/UX
+          Design, Google Apps Script, and Docker to create efficient and
+          scalable web solutions. With a strong foundation in full-stack
+          development and cloud computing, I am driven to contribute to projects
+          that require innovative problem-solving and a collaborative approach
+          to achieve success."
         />
         <meta
           name="keywords"
@@ -44,9 +55,23 @@ export default function RootLayout({
         <meta property="og:title" content="Punyakrit's Portfolio Website" />
         <meta
           property="og:description"
-          content="Welcome to Punyakrit's portfolio website.I am a final year undergraduate with specialized expertise in developing MERN (MongoDB, Express.js, React.js, Node.js) applications and deploying them in the cloud using AWS (Amazon Web Services) tools."
+          content=" I have 5.6 years of experience in frontend development with
+          specialized expertise in developing MERN (MongoDB, Express.js,
+          React.js, Node.js) applications and deploying them in the cloud using
+          AWS (Amazon Web Services) tools. Highly motivated and possessing the
+          ability to work collaboratively within a team environment, I am adept
+          at leveraging modern technologies such as ReactJs, NextJs, HTML, CSS,
+          JavaScript, jQuery, Redux, Tailwind, GIT, Node.js, MongoDB, UI/UX
+          Design, Google Apps Script, and Docker to create efficient and
+          scalable web solutions. With a strong foundation in full-stack
+          development and cloud computing, I am driven to contribute to projects
+          that require innovative problem-solving and a collaborative approach
+          to achieve success."
         />
-        <meta property="og:url" content="" />
+        <meta
+          property="og:url"
+          content="https://nikildeshwani-portfolio.netlify.app/"
+        />
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="google-adsense-account"
