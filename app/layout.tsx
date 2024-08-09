@@ -49,10 +49,10 @@ export default function RootLayout({
         />
         <meta
           name="keywords"
-          content="portfolio, developer, projects, skills, punyakrit singh makhni, Frontend, Backend, ReactJs, NextJs, web development, software engineer, UI/UX, HTML, CSS, JavaScript, Node.js, MongoDB, Tailwind CSS , API, responsive design"
+          content="portfolio, developer, projects, skills, Nikil Deshwani , Frontend, Backend, ReactJs, NextJs, web development, software engineer, UI/UX, HTML, CSS, JavaScript, Node.js, MongoDB, Tailwind CSS , API, responsive design"
         />
-        <meta name="author" content="Punyakrit Singh Makhni" />
-        <meta property="og:title" content="Punyakrit's Portfolio Website" />
+        <meta name="author" content="Nikil Deshwani" />
+        <meta property="og:title" content="Nikil Deshwani Portfolio Website" />
         <meta
           property="og:description"
           content=" I have 5.6 years of experience in frontend development with
