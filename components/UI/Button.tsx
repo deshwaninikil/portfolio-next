@@ -6,7 +6,7 @@ function Buttons() {
     <div className="md:flex justify-around md:w-2/3 md:mt-10 mt-6 ">
       <div className="py-4 px-4 rounded-full border-4 bg-purple-900/30 border-white shadow-white/50 shadow-lg relative w-max mt-5 md:mt-0">
         <a
-          href="https://drive.google.com/file/d/1aMH1Nvqk1FDpkksPD5HsfGHWHTS_L4X-/view"
+          href="https://drive.google.com/file/d/1mf7_yeQym01Fr-JXaY44pKZDW4deqLmD/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
         >
